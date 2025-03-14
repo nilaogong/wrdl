@@ -2,6 +2,6 @@
   "version": "1.1.1",
   "release_date": "2025-03-14",
   "download_url": "https://github.com/nilaogong/wrdl/releases/download/v1.1.1/default.exe",
-  "checksum": "472461DA4FEFECEA886C72C36A78AEA2785E9D7A7451AB879E1D9194A7FEE916",
+  "checksum": "7B0468C53AAB9EE5BA6218A09A779DB2CB2E01D5E5CD93C0891DCF66D2A61536",
   "changes": "1. 首次发布\n2. 基本功能实现\n3. 支持自动检测更新"
 }
