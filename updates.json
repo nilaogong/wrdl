@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "release_date": "2025-03-20",
-  "download_url": "https://github.com/nilaogong/wrdl/releases/download/v1.1.1/default.exe",
+  "download_url": "https://github.com/nilaogong/wrdl/releases/download/v1.0.0/v1.0.0.exe",
   "checksum": "52D32A69E22DF2272C25FEDC6D3D57E09B161EAA8451E7AEABCBF6791B3ED949",
   "changes": "1. 首次发布\n2. 基本功能实现\n3. 支持自动检测更新"
 }
